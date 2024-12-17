@@ -1,10 +1,13 @@
-# 🖤 ✨ About Me 🖤
+# 🖤 **✨ About Me ✨** 🖤  
 
-## 😈 Who Am I?  
-I'm a passionate web developer specializing in **React.js** and **Next.js**, with experience in **Vue.js** and **Nuxt.js**. I enjoy working on both frontend and backend development, using **Node.js** and **Express.js** with **TypeScript**. Always eager to learn new things and tackle challenging problems 🛠️✨.
+## 😈 **Who Am I?**  
+I'm a passionate **Full Stack Web Developer** with expertise in:  
+🚀 **Frontend**: **React.js**, **Next.js**
+🛠️ **Backend**: **Node.js**, **Express.js**, **TypeScript**, **Java**, **C#**  
+📚 I enjoy learning new technologies, solving challenging problems, and building **clean, scalable applications**.  
 
 ### 📧 **Reach Me**  
-- 💌 Mail: [linnh3064@gmail.com](mailto:linnh3064@gmail.com)  
+- 💌 Mail: [yaiwaitun86@gmail.com](mailto:yatiwaitun86@gmail.com)  
 
 💡 **Fun fact:** I love exploring new technologies and solving puzzles 😈🖤.  
 
@@ -12,7 +15,7 @@ I'm a passionate web developer specializing in **React.js** and **Next.js**, wit
 
 ## 🌐 **Socials**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linn-htet-aung-115b7226b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yati-wai-tun-a33078308/)  
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/share/1BbvW96snW/)
 
 ---
@@ -25,7 +28,8 @@ I'm a passionate web developer specializing in **React.js** and **Next.js**, wit
 - ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000)  
 - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)  
 - ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)  
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+
 
 ## 😈 **Backend**  
 - ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)  
