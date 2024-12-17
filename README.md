@@ -1,9 +1,11 @@
 # 🖤 **✨ About Me ✨** 🖤
 
-##  **Hi There I'm Yati Wai Tun**
+##  **Hi I'm Yati Wai Tun**
 I'm a passionate **Full Stack Web Developer** with expertise in:  
 🚀 **Frontend**: **React.js**, **Next.js**
+
 🛠️ **Backend**: **Node.js**, **Express.js**, **TypeScript**, **Java**, **C#**  
+
 📚 I enjoy learning new technologies, solving challenging problems, and building **clean, scalable applications**.  
 
 💡 **Fun Fact**: I’m a tech explorer 🧩 and love solving logic puzzles ✨  
@@ -61,4 +63,3 @@ I'm a passionate **Full Stack Web Developer** with expertise in:
 ---
 
 🖤 **✨ Let’s Code and Create! ✨** 🖤
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
