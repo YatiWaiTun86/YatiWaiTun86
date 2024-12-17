@@ -1,22 +1,22 @@
 # 🖤 **✨ About Me ✨** 🖤
 
-## 😈 **Who Am I?**
+##  **Hi There I'm Yati Wai Tun**
 I'm a passionate **Full Stack Web Developer** with expertise in:  
-🚀 **Frontend**: **React.js**, **Next.js**, **Vue.js**, **Nuxt.js**  
-🛠️ **Backend**: **Node.js**, **Express.js**, **TypeScript**  
+🚀 **Frontend**: **React.js**, **Next.js**
+🛠️ **Backend**: **Node.js**, **Express.js**, **TypeScript**, **Java**, **C#**  
 📚 I enjoy learning new technologies, solving challenging problems, and building **clean, scalable applications**.  
 
-💡 **Fun Fact**: I’m a tech explorer 🧩 and love solving logic puzzles 😈✨  
+💡 **Fun Fact**: I’m a tech explorer 🧩 and love solving logic puzzles ✨  
 
 ### 📧 **Connect With Me**  
-💌 **Mail**: [linnh3064@gmail.com](mailto:linnh3064@gmail.com)
+💌 **Mail**: [yatiwaitun86@gmail.com](mailto:yatiwaitun86@gmail.com)
 
 ---
 
 ## 🌐 **Find Me Online** 🌐
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/linn-htet-aung-115b7226b/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/share/1BbvW96snW/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yati-wai-tun-a33078308/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/profile.php?id=61553078935673)
 
 ---
 
@@ -61,3 +61,4 @@ I'm a passionate **Full Stack Web Developer** with expertise in:
 ---
 
 🖤 **✨ Let’s Code and Create! ✨** 🖤
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
