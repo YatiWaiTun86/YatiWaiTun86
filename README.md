@@ -57,9 +57,5 @@ I'm a passionate **Full Stack Web Developer** with expertise in:
 
 ---
 
-## 💬 **Coding Activity & Language Stats**  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&bg_color=ffffff&color=0099ff&line=00ff00&point=ff0000&area=true&hide_border=true)
-
----
 
 🖤 **✨ Let’s Code and Create! ✨** 🖤
