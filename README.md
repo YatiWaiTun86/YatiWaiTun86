@@ -33,7 +33,7 @@ I'm a passionate **Full Stack Web Developer** with expertise in:
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge)  
 
 ## 🛠️ **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)  
