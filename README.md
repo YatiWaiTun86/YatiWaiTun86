@@ -53,7 +53,11 @@ I'm a passionate **Full Stack Web Developer** with expertise in:
 
 # 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## 🎨 GitHub Stats
+
+![Yati Wai Tun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatiwaitun&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatiwaitun&layout=compact&theme=radical)
 
 ---
 
